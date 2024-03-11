@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log('Hello! My name is Brandon. I am 35 years old.');
+console.log('Hello, world!');
 
 /*   
 Next, PLAY! 
